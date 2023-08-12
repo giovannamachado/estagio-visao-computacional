@@ -1,6 +1,6 @@
 ## Análise de dados
 
-#### :computer: Repositório criado subir meus aprendizados com análise de dados
+#### :computer: Repositório criado subir algumas questões de programação básica
 
 ```
 Contém: Três questões de programação.
