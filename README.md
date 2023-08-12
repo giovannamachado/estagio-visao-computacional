@@ -1,6 +1,6 @@
-## Processo seletivo Stepps
+## Análise de dados
 
-#### :computer: Repositório criado para as respostas das questões da parte 1 do desafio do processo seletivo de estágio da Stepps.
+#### :computer: Repositório criado subir meus aprendizados com análise de dados
 
 ```
 Contém: Três questões de programação.
